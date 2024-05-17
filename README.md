@@ -8,7 +8,7 @@ All of my games data was gathered from the chess.com api at https://api.chess.co
 To view this project, download game_analysis.ipynb and run it in jupyter notebook.  No data needs to be downloaded
 
 ## Results
-!(Book1.jpg)
+![](Book1.jpg)
 
 ## Future
 Moving forward, I am going to analyse the quality of each move with Stockfish.  This will take several hours.  I will create an SQL database to store the results so future iterations do not need to recalculate all moves.  Then, I will track how often I move each piece, which tiles each of my pieces is on the most often, and track how often I make a mistake with each piece type.
